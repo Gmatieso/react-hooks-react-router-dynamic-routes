@@ -22,3 +22,5 @@ function MoviesPage({ movies }) {
     </div>
   );
 }
+
+export default MoviesPage;
